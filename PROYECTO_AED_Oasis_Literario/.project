@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PROYECTO_AED_Oasis_Literario</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/datos/clientes.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/clientes.txt</locationURI>
+		</link>
+		<link>
+			<name>src/datos/productos.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/productos.txt</locationURI>
+		</link>
+		<link>
+			<name>src/datos/ventas.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/ventas.txt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

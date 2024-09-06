@@ -1,0 +1,8 @@
+2001;Los genios;70.0;17;5;30
+2002;Don Quijote de la Mancha;90.0;18;4;20
+2003;La Santa Biblia;100.0;0;5;25
+2004;Cien años de soledad;50.0;15;2;10
+2005;La Iliada;20.0;16;2;30
+2006;Los Miserables;45.0;12;1;30
+2007;La Peste;70.0;15;5;45
+2008;El Espía del Inca;80.0;2;2;12

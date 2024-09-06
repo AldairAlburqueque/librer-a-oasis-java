@@ -1,0 +1,6 @@
+1001;Jesús Orellana;72255654;963654123;Chorrillos
+1002;Aldair Alburqueque;78475216;944144522;Barranco
+1003;Italo Navarro;74185296;985236412;Miraflores
+1004;Juan Oliveira;72036548;98965421;Jr Arequipa 148, Surco, Lima
+1005;Pedro Contreras;78963254;96541236;Av Portillo 633, Lima, Perú
+1006;Marcos Rojas;98175265;972862536;Surco
